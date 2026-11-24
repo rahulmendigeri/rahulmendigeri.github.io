@@ -1,6 +1,6 @@
 
 
- [rahulmendigeri@gmail.com](mailto:rahulmendigeri@gmail.com) | [linkedin.com/in/rahul-mendigeri/](https://linkedin.com/in/rahul-mendigeri/) | [github.com/rahulhere-1](https://github.com/rahulmendigeri)
+ [rahulmendigeri@gmail.com](mailto:rahulmendigeri@gmail.com) | [linkedin.com/in/rahul-mendigeri/](https://linkedin.com/in/rahul-mendigeri/) | [github.com/rahulmendigeri](https://github.com/rahulmendigeri)
 
 ---
 
