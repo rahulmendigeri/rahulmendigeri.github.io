@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Profile photo placeholder">
+  <rect width="800" height="1000" fill="#1a1a19"/>
+  <defs>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M50 0H0v50" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="1000" fill="url(#grid)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.5">
+    <path d="M60 90V60h30M710 60h30v30M740 910v30h-30M90 940H60v-30"/>
+  </g>
+  <text x="400" y="500" text-anchor="middle" font-family="'Courier New', monospace" font-size="180" font-weight="700" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="2" letter-spacing="6">RM</text>
+  <text x="400" y="590" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#ffffff" fill-opacity="0.7" letter-spacing="6">YOUR PHOTO HERE</text>
+  <text x="400" y="622" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#ffffff" fill-opacity="0.45" letter-spacing="2">assets/profile.jpg</text>
+</svg>
